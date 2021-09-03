@@ -6,8 +6,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
 | 172 | [Factorial Trailing Zeroes]                                  | [C]		 |
-| 69  | [Sqrt(x)]                                                    | [C](src/69.c)      |
-| 58  | [Length of Last Word]                                        | [C](src/58.c)      |
+| 69  | [Sqrt(x)]                                                    | [C]		 |
+| 58  | [Length of Last Word]                                        | [C]		 |
 | 9   | [Palindrome Number]                                          | [C]      	 |
 | 8   | [String to Integer (atoi)]                                   | [C]      	 |
 | 7   | [Reverse Integer]                                            | [C]      	 |
