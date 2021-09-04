@@ -5,17 +5,17 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
-| 326 | [Valid Perfect Square]                                       | [C](326_Valid_Perfect_Square/326.c)        |
-| 342 | [Power of Four]                                              | [C](342.c)	 |
-| 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)        |
-| 231 | [Power of Two]                                               | [C](231.c)	 |
-| 172 | [Factorial Trailing Zeroes]                                  | [C](172.c)        |
-| 69  | [Sqrt(x)]                                                    | [C](69.c)	 |
-| 58  | [Length of Last Word]                                        | [C](58.c)	 |
-| 9   | [Palindrome Number]                                          | [C](9.c)      	 |
-| 8   | [String to Integer (atoi)]                                   | [C](8.c)  	 |
-| 7   | [Reverse Integer]                                            | [C](7.c)      	 |
-| 3   | [Longest Substring Without Repeating Characters]             | [C](3.c)          |
+| 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367_Valid_Perfect_Square/367.c)        |
+| 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)	               |
+| 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)                   |
+| 231 | [Power of Two]                                               | [C](https://github.com/Mounadi05/leetcode/blob/main/231_Power_of_Two/231.c)	 	       |
+| 172 | [Factorial Trailing Zeroes]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/172_Factorial_Trailing_Zeroes/172.c)        |
+| 69  | [Sqrt(x)]                                                    | [C](https://github.com/Mounadi05/leetcode/blob/main/69_Sqrt(x))	 		|
+| 58  | [Length of Last Word]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	 |
+| 9   | [Palindrome Number]                                          | [C](https://github.com/Mounadi05/leetcode/blob/main/9_Palindrome_Number/9.c)      	 |
+| 8   | [String to Integer (atoi)]                                   | [C](https://github.com/Mounadi05/leetcode/blob/main/8_String_to_Integer(atoi))  	 |
+| 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)      	                        |
+| 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 
 [Valid Perfect Square]:https://leetcode.com/problems/valid-perfect-square/                                       
 [Power of Four]:https://leetcode.com/problems/power-of-four/
