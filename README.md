@@ -5,7 +5,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
-| 326 | [Valid Perfect Square]                                       | [C](326.c)        |
+| 326 | [Valid Perfect Square]                                       | [C](326_Valid_Perfect_Square/326.c)        |
 | 342 | [Power of Four]                                              | [C](342.c)	 |
 | 326 | [Power of three]                                             | [C](326.c)        |
 | 231 | [Power of Two]                                               | [C](231.c)	 |
