@@ -7,7 +7,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | --- | ------------------------------------------------------------ | ----------------- |
 | 326 | [Valid Perfect Square]                                       | [C](326_Valid_Perfect_Square/326.c)        |
 | 342 | [Power of Four]                                              | [C](342.c)	 |
-| 326 | [Power of three]                                             | [C](326.c)        |
+| 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)        |
 | 231 | [Power of Two]                                               | [C](231.c)	 |
 | 172 | [Factorial Trailing Zeroes]                                  | [C](172.c)        |
 | 69  | [Sqrt(x)]                                                    | [C](69.c)	 |
