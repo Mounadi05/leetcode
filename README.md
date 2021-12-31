@@ -28,3 +28,4 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[Sqrt(x)]: https://leetcode.com/problems/sqrtx/
