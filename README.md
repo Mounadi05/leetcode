@@ -5,7 +5,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
-| 867 | [876. Middle of the Linked List]                             | [C](https://github.com/Mounadi05/leetcode/blob/main/876_Middle_of_the_Linked_List/876.c)|
+| 867 | [Middle of the Linked List]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/876_Middle_of_the_Linked_List/876.c)  |
 | 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367_Valid_Perfect_Square/367.c)        |
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
