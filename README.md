@@ -8,6 +8,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 |1556 | [Thousand Separator]                                         | [C](https://github.com/Mounadi05/leetcode/blob/main/1556_Thousand_Separator/1556.c)  |
 | 867 | [Middle of the Linked List]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/876_Middle_of_the_Linked_List/876.c)  |
 | 633 | [Sum of Square Numbers    ]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/633_Sum_of_Square_Numbers/633.c)  |
+| 389 | [Find the Difference ]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/389_Find_the_Difference/389.c)  |
 | 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367_Valid_Perfect_Square/367.c)        |
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
@@ -44,5 +45,6 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Reverse String]:https://leetcode.com/problems/reverse-string/
 [Thousand Separator]:https://leetcode.com/problems/thousand-separator/
 [Sum of Square Numbers]:https://leetcode.com/problems/sum-of-square-numbers/
+[Find the Difference]:https://leetcode.com/problems/find-the-difference/
 
 
