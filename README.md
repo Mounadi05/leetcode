@@ -20,11 +20,13 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 136 | [Single Number]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/136_Single_Number/136.c)   |
 | 69  | [Sqrt(x)]                                                    | [C](https://github.com/Mounadi05/leetcode/blob/main/69_Sqrt(x))	 		|
 | 58  | [Length of Last Word]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	 |
+| 26  | [Remove Duplicates from Sorted Array]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
 | 21  | [Merge Two Sorted Lists]                                     | [C](https://github.com/Mounadi05/leetcode/blob/main/21_Merge_Two_Sorted_Lists/21.c)	 |
 | 9   | [Palindrome Number]                                          | [C](https://github.com/Mounadi05/leetcode/blob/main/9_Palindrome_Number/9.c)      	 |
 | 8   | [String to Integer (atoi)]                                   | [C](https://github.com/Mounadi05/leetcode/blob/main/8_String_to_Integer(atoi))  	 |
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
+| 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
 
 [Valid Perfect Square]:https://leetcode.com/problems/valid-perfect-square/                                       
 [Power of Four]:https://leetcode.com/problems/power-of-four/
@@ -46,5 +48,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Thousand Separator]:https://leetcode.com/problems/thousand-separator/
 [Sum of Square Numbers]:https://leetcode.com/problems/sum-of-square-numbers/
 [Find the Difference]:https://leetcode.com/problems/find-the-difference/
+[Remove Duplicates from Sorted Array]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[Two Sum]:https://leetcode.com/problems/two-sum/
 
 
