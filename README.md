@@ -18,8 +18,12 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 206 | [Reverse Linked List]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/206_Reverse_Linked_List/206.c)  |
 | 172 | [Factorial Trailing Zeroes]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/172_Factorial_Trailing_Zeroes/172.c)   |
 | 136 | [Single Number]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/136_Single_Number/136.c)   |
+| 121 | [Best Time to Buy and Sell Stock]        		     | [C](https://github.com/Mounadi05/leetcode/blob/main/121_Best_Time_to_Buy_and_Sell_Stock/121.c)|
+| 88  | [Merge Sorted Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/88_Merge_Sorted_Array/88.c)|
+| 75  | [Sort Colors]             			             | [C](https://github.com/Mounadi05/leetcode/blob/main/75_Sort_Colors/75.c)|
 | 69  | [Sqrt(x)]                                                    | [C](https://github.com/Mounadi05/leetcode/blob/main/69_Sqrt(x))	 		|
 | 58  | [Length of Last Word]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	 |
+| 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
 | 26  | [Remove Duplicates from Sorted Array]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
 | 21  | [Merge Two Sorted Lists]                                     | [C](https://github.com/Mounadi05/leetcode/blob/main/21_Merge_Two_Sorted_Lists/21.c)	 |
 | 9   | [Palindrome Number]                                          | [C](https://github.com/Mounadi05/leetcode/blob/main/9_Palindrome_Number/9.c)      	 |
@@ -50,5 +54,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Find the Difference]:https://leetcode.com/problems/find-the-difference/
 [Remove Duplicates from Sorted Array]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Two Sum]:https://leetcode.com/problems/two-sum/
-
+[Remove Element]:https://leetcode.com/problems/remove-element/
+[Sort Colors]:https://leetcode.com/problems/sort-colors/
+[Merge Sorted Array]:https://leetcode.com/problems/merge-sorted-array/
+[Best Time to Buy and Sell Stock]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
