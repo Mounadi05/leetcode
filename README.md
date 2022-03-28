@@ -5,10 +5,21 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
+|2114 | [Maximum Number of Words Found in Sentences]   		     | [C](https://github.com/Mounadi05/leetcode/blob/main/2114_Maximum_Number_of_Words_Found_in_Sentences/2114.c)|
+|2011 | [Final Value of Variable After Performing Operations]        | [C](https://github.com/Mounadi05/leetcode/blob/main/2011_Final_Value_of_Variable_After_Performing_Operations/2011.c)|
+|1929 | [Concatenation of Array]             		 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1929_Concatenation_of_Array/1929.c)|
+|1920 | [Build Array from Permutation]          		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1920_Build_Array_from_Permutation/1920.c)|
+|1678 | [Goal Parser Interpretation]     			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1678_Goal_Parser_Interpretation/1678.c)|
+|1672 | [Richest Customer Wealth]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1672_Richest_Customer_Wealth/1672.c)|
 |1556 | [Thousand Separator]                                         | [C](https://github.com/Mounadi05/leetcode/blob/main/1556_Thousand_Separator/1556.c)  |
+|1512 | [Number of Good Pairs]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1512_Number_of_Good_Pairs/1512.c)|
+|1480 | [Running Sum of 1d Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1480_Running_Sum_of_1d_Array/1480.c)|
+|1365 | [How Many Numbers Are Smaller Than the Current Number] 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number/1365.c)|
+|1346 | [Check If N and Its Double Exist]        		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1346_Check_If_N_and_Its_Double_Exist/1346.c)|
 |1299 | [Replace Elements with Greatest Element on Right Side] 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1299_Replace_Elements_with_Greatest_Element_on_Right_Side/1299.c)|
 |1295 | [Find Numbers with Even Number of Digits]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1295_Find_Numbers_with_Even_Number_of_Digits/1295.c)|
 |1281 | [Subtract the Product and Sum of Digits of an Integer]       | [C](https://github.com/Mounadi05/leetcode/blob/main/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/1281.c)|
+|2129 | [Capitalize the Title]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/2129_Capitalize_the_Title/2129.c)|
 |1221 | [Split a String in Balanced Strings]          		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1221_Split_a_String_in_Balanced_Strings/1221.c)|
 |1108 | [Defanging an IP Address]       			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1108_Defanging_an_IP_Address/1108.c)|
 |1059 | [Height Checker]         				     | [C](https://github.com/Mounadi05/leetcode/blob/main/1059_Height_Checker/1059.c)|
@@ -54,9 +65,6 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
-|1672 | [Richest Customer Wealth]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1672_Richest_Customer_Wealth/1672.c)|
-|1512 | [Number of Good Pairs]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1512_Number_of_Good_Pairs/1512.c)|
-|1480 | [Running Sum of 1d Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1480_Running_Sum_of_1d_Array/1480.c)|
 
 [Valid Perfect Square]:https://leetcode.com/problems/valid-perfect-square/                                       
 [Power of Four]:https://leetcode.com/problems/power-of-four/
@@ -111,5 +119,12 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Richest Customer Wealth]:https://leetcode.com/problems/richest-customer-wealth/
 [Running Sum of 1d Array]:https://leetcode.com/problems/running-sum-of-1d-array/ 
 [Number of Good Pairs]:https://leetcode.com/problems/number-of-good-pairs/
-
+[Check If N and Its Double Exist]:https://leetcode.com/problems/check-if-n-and-its-double-exist/
+[How Many Numbers Are Smaller Than the Current Number]:https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[Goal Parser Interpretation]:https://leetcode.com/problems/goal-parser-interpretation/
+[Build Array from Permutation]:https://leetcode.com/problems/build-array-from-permutation/ 
+[Capitalize the Title]:https://leetcode.com/problems/capitalize-the-title/
+[Maximum Number of Words Found in Sentences]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+[Final Value of Variable After Performing Operations]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+[Concatenation of Array]:https://leetcode.com/problems/concatenation-of-array/ 
 
