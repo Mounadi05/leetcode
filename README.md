@@ -6,9 +6,23 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
 |1556 | [Thousand Separator]                                         | [C](https://github.com/Mounadi05/leetcode/blob/main/1556_Thousand_Separator/1556.c)  |
+|1299 | [Replace Elements with Greatest Element on Right Side] 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1299_Replace_Elements_with_Greatest_Element_on_Right_Side/1299.c)|
+|1295 | [Find Numbers with Even Number of Digits]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1295_Find_Numbers_with_Even_Number_of_Digits/1295.c)|
+|1281 | [Subtract the Product and Sum of Digits of an Integer]       | [C](https://github.com/Mounadi05/leetcode/blob/main/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/1281.c)|
+|1221 | [Split a String in Balanced Strings]          		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1221_Split_a_String_in_Balanced_Strings/1221.c)|
+|1108 | [Defanging an IP Address]       			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1108_Defanging_an_IP_Address/1108.c)|
+|1059 | [Height Checker]         				     | [C](https://github.com/Mounadi05/leetcode/blob/main/1059_Height_Checker/1059.c)|
+| 977 | [Squares of a Sorted Array]             		     | [C](https://github.com/Mounadi05/leetcode/blob/main/977_Squares_of_a_Sorted_Array/977.c)|
+| 941 | [Valid Mountain Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/941_Valid_Mountain_Array/941.c)|
+| 905 | [Sort Array By Parity]           			     | [C](https://github.com/Mounadi05/leetcode/blob/main/905_Sort_Array_By_Parity/905.c)|
 | 867 | [Middle of the Linked List]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/876_Middle_of_the_Linked_List/876.c)  |
+| 771 | [Jewels and Stones]            				     | [C](https://github.com/Mounadi05/leetcode/blob/main/771_Jewels_and_Stones/771.c)|
+| 709 | [To Lower Case]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/709_To_Lower_Case/709.c)|
+| 657 | [Robot Return to Origin]        			     | [C](https://github.com/Mounadi05/leetcode/blob/main/657_Robot_Return_to_Origin/657.c)|
 | 633 | [Sum of Square Numbers    ]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/633_Sum_of_Square_Numbers/633.c)  |
+| 532 | [K-diff Pairs in an Array]         			     | [C](https://github.com/Mounadi05/leetcode/blob/main/532_K-diff_Pairs_in_an_Array/532.c)|
 | 520 | [Detect Capital]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/520_Detect_Capital/520.c)|
+| 509 | [Fibonacci Number]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/509_Fibonacci_Number/509.c)|
 | 485 | [Max Consecutive Ones]         				     | [C](https://github.com/Mounadi05/leetcode/blob/main/485_Max_Consecutive_Ones/485.c)|
 | 448 | [Find All Numbers Disappeared in an Array]      	     | [C](https://github.com/Mounadi05/leetcode/blob/main/448_Find_All_Numbers_Disappeared_in_an_Array/448.c)|
 | 389 | [Find the Difference ]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/389_Find_the_Difference/389.c)  |
@@ -40,6 +54,9 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+|1672 | [Richest Customer Wealth]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1672_Richest_Customer_Wealth/1672.c)|
+|1512 | [Number of Good Pairs]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1512_Number_of_Good_Pairs/1512.c)|
+|1480 | [Running Sum of 1d Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1480_Running_Sum_of_1d_Array/1480.c)|
 
 [Valid Perfect Square]:https://leetcode.com/problems/valid-perfect-square/                                       
 [Power of Four]:https://leetcode.com/problems/power-of-four/
@@ -76,3 +93,23 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Detect Capital]:https://leetcode.com/problems/detect-capital/
 [Max Consecutive Ones]:https://leetcode.com/problems/max-consecutive-ones/
 [Find All Numbers Disappeared in an Array]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[To Lower Case]:https://leetcode.com/problems/to-lower-case/
+[Robot Return to Origin]:https://leetcode.com/problems/robot-return-to-origin/
+[K-diff Pairs in an Array]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
+[Squares of a Sorted Array]:https://leetcode.com/problems/squares-of-a-sorted-array/
+[Fibonacci Number]:https://leetcode.com/problems/fibonacci-number/
+[Valid Mountain Array]:https://leetcode.com/problems/valid-mountain-array/ 
+[Sort Array By Parity]:https://leetcode.com/problems/sort-array-by-parity/
+[Jewels and Stones]:https://leetcode.com/problems/jewels-and-stones/
+[Split a String in Balanced Strings]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[Replace Elements with Greatest Element on Right Side]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+[Defanging an IP Address]:https://leetcode.com/problems/defanging-an-ip-address/
+[Height Checker]:https://leetcode.com/problems/height-checker/
+[Duplicate Zeros]:https://leetcode.com/problems/duplicate-zeros/
+[Subtract the Product and Sum of Digits of an Integer]:https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+[Find Numbers with Even Number of Digits]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ 
+[Richest Customer Wealth]:https://leetcode.com/problems/richest-customer-wealth/
+[Running Sum of 1d Array]:https://leetcode.com/problems/running-sum-of-1d-array/ 
+[Number of Good Pairs]:https://leetcode.com/problems/number-of-good-pairs/
+
+
