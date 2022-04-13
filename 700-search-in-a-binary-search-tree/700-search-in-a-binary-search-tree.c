@@ -8,15 +8,13 @@
  * };
  */
 
-
 struct TreeNode* searchBST(struct TreeNode* root, int val){
 
-    while (root && root->val != val)
-    {
-        if (root->val < val)
-            root = root->right;
-        else
-            root = root->left;
-    }
-    return (root);
+    if (!root || root->val == val)
+        return root;
+    if (root->val > val)
+     root = searchBST(root->left,val);
+    else
+      root = searchBST(root->right,val);
+    return root;
 }
