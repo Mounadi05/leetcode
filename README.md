@@ -28,7 +28,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 905 | [Sort Array By Parity]           			     | [C](https://github.com/Mounadi05/leetcode/blob/main/905_Sort_Array_By_Parity/905.c)|
 | 867 | [Middle of the Linked List]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/876_Middle_of_the_Linked_List/876.c)  |
 | 771 | [Jewels and Stones]            				     | [C](https://github.com/Mounadi05/leetcode/blob/main/771_Jewels_and_Stones/771.c)|
-| 709 | [To Lower Case]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/709_To_Lower_Case/709.c)|
+| 709 | [To Lower Case] | [C](https://github.com/Mounadi05/leetcode/blob/main/709_To_Lower_Case/709.c)|
+| 700 | [Search in a Binary Search Tree]     | [C](https://github.com/Mounadi05/leetcode/tree/main/700-search-in-a-binary-search-tree)|
 | 657 | [Robot Return to Origin]        			     | [C](https://github.com/Mounadi05/leetcode/blob/main/657_Robot_Return_to_Origin/657.c)|
 | 633 | [Sum of Square Numbers    ]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/633_Sum_of_Square_Numbers/633.c)  |
 | 532 | [K-diff Pairs in an Array]         			     | [C](https://github.com/Mounadi05/leetcode/blob/main/532_K-diff_Pairs_in_an_Array/532.c)|
@@ -65,6 +66,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+
 
 [Valid Perfect Square]:https://leetcode.com/problems/valid-perfect-square/                                       
 [Power of Four]:https://leetcode.com/problems/power-of-four/
@@ -127,4 +129,4 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Maximum Number of Words Found in Sentences]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [Final Value of Variable After Performing Operations]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [Concatenation of Array]:https://leetcode.com/problems/concatenation-of-array/ 
-
+[Search in a Binary Search Tree]:https://github.com/Mounadi05/leetcode/tree/main/700-search-in-a-binary-search-tree
