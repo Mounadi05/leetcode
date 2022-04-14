@@ -5,6 +5,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
+|2180 | [Count Integers With Even Digit Sum]   | [C](https://github.com/Mounadi05/leetcode/blob/main/2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.c)|
 |2114 | [Maximum Number of Words Found in Sentences]   		     | [C](https://github.com/Mounadi05/leetcode/blob/main/2114_Maximum_Number_of_Words_Found_in_Sentences/2114.c)|
 |2011 | [Final Value of Variable After Performing Operations]        | [C](https://github.com/Mounadi05/leetcode/blob/main/2011_Final_Value_of_Variable_After_Performing_Operations/2011.c)|
 |1929 | [Concatenation of Array]             		 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1929_Concatenation_of_Array/1929.c)|
@@ -37,6 +38,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 509 | [Fibonacci Number]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/509_Fibonacci_Number/509.c)|
 | 485 | [Max Consecutive Ones]         				     | [C](https://github.com/Mounadi05/leetcode/blob/main/485_Max_Consecutive_Ones/485.c)|
 | 448 | [Find All Numbers Disappeared in an Array]      	     | [C](https://github.com/Mounadi05/leetcode/blob/main/448_Find_All_Numbers_Disappeared_in_an_Array/448.c)|
+| 412 | [Fizz Buzz]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/412-fizz-buzz/412-fizz-buzz.c)|
 | 389 | [Find the Difference ]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/389_Find_the_Difference/389.c)  |
 | 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367_Valid_Perfect_Square/367.c)        |
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
@@ -135,3 +137,5 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Search in a Binary Search Tree]:https://github.com/Mounadi05/leetcode/tree/main/700-search-in-a-binary-search-tree
 [Swap Nodes in Pairs]:https://github.com/Mounadi05/leetcode/blob/main/24-swap-nodes-in-pairs/README.md
 [Climbing Stairs]:https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/README.md
+[Fizz Buzz]:https://github.com/Mounadi05/leetcode/blob/main/412-fizz-buzz/README.md
+[Count Integers With Even Digit Sum]:https://github.com/Mounadi05/leetcode/blob/main/2180-count-integers-with-even-digit-sum/README.md
