@@ -40,7 +40,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 448 | [Find All Numbers Disappeared in an Array]      	     | [C](https://github.com/Mounadi05/leetcode/blob/main/448_Find_All_Numbers_Disappeared_in_an_Array/448.c)|
 | 412 | [Fizz Buzz]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/412-fizz-buzz/412-fizz-buzz.c)|
 | 389 | [Find the Difference ]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/389_Find_the_Difference/389.c)  |
-| 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367_Valid_Perfect_Square/367.c)        |
+| 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367-valid-perfect-square/367-valid-perfect-square.c)        |
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
 | 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)      |
