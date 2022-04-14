@@ -56,6 +56,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 121 | [Best Time to Buy and Sell Stock]        		     | [C](https://github.com/Mounadi05/leetcode/blob/main/121_Best_Time_to_Buy_and_Sell_Stock/121.c)|
 | 88  | [Merge Sorted Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/88_Merge_Sorted_Array/88.c)|
 | 75  | [Sort Colors]             			             | [C](https://github.com/Mounadi05/leetcode/blob/main/75_Sort_Colors/75.c)|
+| 70  | [Climbing Stairs]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/70-climbing-stairs.c)|
 | 69  | [Sqrt(x)]                                                    | [C](https://github.com/Mounadi05/leetcode/blob/main/69_Sqrt(x))	 		|
 | 58  | [Length of Last Word]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	 |
 | 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
@@ -67,6 +68,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+
 
 
 [Valid Perfect Square]:https://leetcode.com/problems/valid-perfect-square/                                       
@@ -132,3 +134,4 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Concatenation of Array]:https://leetcode.com/problems/concatenation-of-array/ 
 [Search in a Binary Search Tree]:https://github.com/Mounadi05/leetcode/tree/main/700-search-in-a-binary-search-tree
 [Swap Nodes in Pairs]:https://github.com/Mounadi05/leetcode/blob/main/24-swap-nodes-in-pairs/README.md
+[Climbing Stairs]:https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/README.md
