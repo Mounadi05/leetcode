@@ -9,12 +9,10 @@
 
 struct ListNode* rotateRight(struct ListNode* head, int k){  
     struct ListNode* tmp = head;
-    if (!head)
-        return (head);
     int i = 0;
     while(tmp && ++i)
         tmp = tmp->next;
-    if (k > i)
+    if (k > i && head)
         k = k%i;
     tmp = head;
     struct ListNode* tmp1 = NULL;
