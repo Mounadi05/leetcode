@@ -19,7 +19,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 |1346 | [Check If N and Its Double Exist]        		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1346_Check_If_N_and_Its_Double_Exist/1346.c)|
 |1299 | [Replace Elements with Greatest Element on Right Side] 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1299_Replace_Elements_with_Greatest_Element_on_Right_Side/1299.c)|
 |1295 | [Find Numbers with Even Number of Digits]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1295_Find_Numbers_with_Even_Number_of_Digits/1295.c)|
-|1281 | [Subtract the Product and Sum of Digits of an Integer]       | [C](https://github.com/Mounadi05/leetcode/blob/main/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/1281.c)|
+|1281 | [Subtract the Product and Sum of Digits of an Integer]       | [C](https://github.com/Mounadi05/leetcode/blob/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.c)|
 |2129 | [Capitalize the Title]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/2129_Capitalize_the_Title/2129.c)|
 |1221 | [Split a String in Balanced Strings]          		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1221_Split_a_String_in_Balanced_Strings/1221.c)|
 |1108 | [Defanging an IP Address]       			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1108_Defanging_an_IP_Address/1108.c)|
@@ -121,7 +121,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Defanging an IP Address]:https://leetcode.com/problems/defanging-an-ip-address/
 [Height Checker]:https://leetcode.com/problems/height-checker/
 [Duplicate Zeros]:https://leetcode.com/problems/duplicate-zeros/
-[Subtract the Product and Sum of Digits of an Integer]:https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+[Subtract the Product and Sum of Digits of an Integer]:https://github.com/Mounadi05/leetcode/blob/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md
 [Find Numbers with Even Number of Digits]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ 
 [Richest Customer Wealth]:https://leetcode.com/problems/richest-customer-wealth/
 [Running Sum of 1d Array]:https://leetcode.com/problems/running-sum-of-1d-array/ 
