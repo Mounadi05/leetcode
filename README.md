@@ -80,7 +80,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Power of three]:https://leetcode.com/problems/power-of-three/
 [Power of Two]:https://leetcode.com/problems/power-of-two/
 [Factorial Trailing Zeroes]:https://leetcode.com/problems/factorial-trailing-zeroes/
-[Sqrt(x)]:https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/README.md[Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
+[Sqrt(x)]:https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/README.md
+[Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
