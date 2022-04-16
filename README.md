@@ -60,7 +60,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 88  | [Merge Sorted Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/88_Merge_Sorted_Array/88.c)|
 | 75  | [Sort Colors]             			             | [C](https://github.com/Mounadi05/leetcode/blob/main/75_Sort_Colors/75.c)|
 | 70  | [Climbing Stairs]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/70-climbing-stairs.c)|
-| 69  | [Sqrt(x)]                                                    | [C](https://github.com/Mounadi05/leetcode/blob/main/69_Sqrt(x))	 		|
+| 69  | [Sqrt(x)]                               | [C](https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/69-sqrtx.c))	 		|
 | 58  | [Length of Last Word]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	 |
 | 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
 | 26  | [Remove Duplicates from Sorted Array]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
@@ -80,8 +80,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Power of three]:https://leetcode.com/problems/power-of-three/
 [Power of Two]:https://leetcode.com/problems/power-of-two/
 [Factorial Trailing Zeroes]:https://leetcode.com/problems/factorial-trailing-zeroes/
-[Sqrt(x)]: https://leetcode.com/problems/sqrtx/
-[Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
+[Sqrt(x)]:https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/README.md[Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
