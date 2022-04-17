@@ -55,8 +55,9 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 171 | [Excel Sheet Column Number]          			     | [C](https://github.com/Mounadi05/leetcode/blob/main/171_Excel_Sheet_Column_Number/171.c)|
 | 162 | [Find Peak Element]          				     | [C](https://github.com/Mounadi05/leetcode/blob/main/162_Find_Peak_Element/162.c)|
 | 151   | [Reverse Words in a String]        | [C](https://github.com/Mounadi05/leetcode/blob/main/151-reverse-words-in-a-string/151-reverse-words-in-a-string.c)|
-| 136 | [Single Number]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/136_Single_Number/136.c)   |
-| 121 | [Best Time to Buy and Sell Stock]        		     | [C](https://github.com/Mounadi05/leetcode/blob/main/121_Best_Time_to_Buy_and_Sell_Stock/121.c)|
+| 136 | [Single Number]                          | [C](https://github.com/Mounadi05/leetcode/blob/main/136_Single_Number/136.c)   |
+| 121 | [Best Time to Buy and Sell Stock]      | [C](https://github.com/Mounadi05/leetcode/blob/main/121_Best_Time_to_Buy_and_Sell_Stock/121.c)|
+| 98  | [Validate Binary Search Tree]   | [C](https://github.com/Mounadi05/leetcode/blob/main/98-validate-binary-search-tree/98-validate-binary-search-tree.c)|
 | 88  | [Merge Sorted Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/88_Merge_Sorted_Array/88.c)|
 | 75  | [Sort Colors]             			             | [C](https://github.com/Mounadi05/leetcode/blob/main/75_Sort_Colors/75.c)|
 | 70  | [Climbing Stairs]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/70-climbing-stairs.c)|
@@ -71,6 +72,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+
 
 
 
@@ -142,3 +144,4 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Fizz Buzz]:https://github.com/Mounadi05/leetcode/blob/main/412-fizz-buzz/README.md
 [Count Integers With Even Digit Sum]:https://github.com/Mounadi05/leetcode/blob/main/2180-count-integers-with-even-digit-sum/README.md
 [Reverse Words in a String]:https://github.com/Mounadi05/leetcode/blob/main/151-reverse-words-in-a-string/README.md
+[Validate Binary Search Tree]:https://github.com/Mounadi05/leetcode/blob/main/98-validate-binary-search-tree/README.md
