@@ -16,13 +16,12 @@ int* preorderTraversal(struct TreeNode* root, int* size){
     struct TreeNode** tree = malloc(sizeof(struct TreeNode*) * 51);
     int i = 0;
     int a = 1;
-    //tree[1] = root->right; 
     while(root)
     {
         while(root)
-        {   
+        {
             if(root->right)
-                tree[a++] = root->right;   
+                tree[a++] = root->right;
             tab[i++] = root->val;
             root = root->left;
         }
