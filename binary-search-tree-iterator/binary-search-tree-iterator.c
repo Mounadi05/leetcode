@@ -8,18 +8,19 @@
  */
 
 
+
 typedef struct {
     int len;
     int index;
     int *node;
 } BSTIterator;
 
-void inorder(struct TreeNode * root, int * out, int * l)
+void inorder(struct TreeNode * root, int * node, int * l)
 {
     if(root == NULL) return;
-    inorder(root->left, out, l);
-    out[(*l)++] = root->val;
-    inorder(root->right, out, l);
+    inorder(root->left, node, l);
+    node[(*l)++] = root->val;
+    inorder(root->right, node, l);
 }
 BSTIterator* bSTIteratorCreate(struct TreeNode* root) {
     BSTIterator* tmp = malloc(sizeof(BSTIterator));
@@ -45,8 +46,6 @@ void bSTIteratorFree(BSTIterator* obj) {
     free(obj->node);
     free(obj);
 }
-
-
 
 /**
  * Your BSTIterator struct will be instantiated and called as such:
