@@ -51,6 +51,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 231 | [Power of Two]                                               | [C](https://github.com/Mounadi05/leetcode/blob/main/231_Power_of_Two/231.c) 	       |
 | 206 | [Reverse Linked List]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/206_Reverse_Linked_List/206.c)  |
 | 203 | [Remove Linked List Elements]             		     | [C](https://github.com/Mounadi05/leetcode/blob/main/203_Remove_Linked_List_Elements/203.c)|
+| 173 | [Binary Search Tree Iterator]      | [C](https://github.com/Mounadi05/leetcode/blob/main/173-binary-search-tree-iterator/173-binary-search-tree-iterator.c)|
 | 172 | [Factorial Trailing Zeroes]                                  | [C](https://github.com/Mounadi05/leetcode/blob/main/172_Factorial_Trailing_Zeroes/172.c)   |
 | 171 | [Excel Sheet Column Number]          			     | [C](https://github.com/Mounadi05/leetcode/blob/main/171_Excel_Sheet_Column_Number/171.c)|
 | 162 | [Find Peak Element]          				     | [C](https://github.com/Mounadi05/leetcode/blob/main/162_Find_Peak_Element/162.c)|
@@ -72,6 +73,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+
+
 
 
 
@@ -145,3 +148,4 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Count Integers With Even Digit Sum]:https://github.com/Mounadi05/leetcode/blob/main/2180-count-integers-with-even-digit-sum/README.md
 [Reverse Words in a String]:https://github.com/Mounadi05/leetcode/blob/main/151-reverse-words-in-a-string/README.md
 [Validate Binary Search Tree]:https://github.com/Mounadi05/leetcode/blob/main/98-validate-binary-search-tree/README.md
+[Binary Search Tree Iterator]:https://github.com/Mounadi05/leetcode/blob/main/173-binary-search-tree-iterator/README.md
