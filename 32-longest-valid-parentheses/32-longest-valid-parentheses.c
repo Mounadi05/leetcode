@@ -1,11 +1,6 @@
 int check(char *s, int size)
 {
-    int i = 0;
-    int x = 0;
-    int q = 0;
-    int c = 0;
-    int z = 0;
-    int a = 0;
+    int i = 0,x = 0, q = 0,c = 0, z = 0,a = 0;
     char *stack = malloc(size + 1);
     while (s[i])
 	{
@@ -32,11 +27,7 @@ int check(char *s, int size)
 
 int reverse_check(char *s, int len)
 {
-    int x = 0;
-    int q = 0;
-    int c = 0;
-    int z = 0;
-    int a = 0;
+    int x = 0, q = 0,c = 0, z = 0,a = 0;
     char *stack = malloc(len + 1);
     while(--len >= 0)
 	{
