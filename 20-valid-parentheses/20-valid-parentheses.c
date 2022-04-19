@@ -6,11 +6,7 @@ bool isValid(char * s){
 	{
 		if (s[i] == '(' || s[i] == '{' || s[i] == '[')
 			stack[a++] = s[i];
-        else if(a && s[i] == ']' && stack[a - 1] == '[')
-			stack[a--];
-        else if(a && s[i] == ')' && stack[a - 1] == '(')
-			stack[a--];
-        else if(a && s[i] == '}' && stack[a - 1] == '{')
+        else if(a && ((s[i] == ']' && stack[a - 1] == '[') ||(s[i] == ')' && stack[a - 1] == '(') ||( s[i] == '}' && stack[a - 1] == '{')))
 			stack[a--];
         else
             return (false);
