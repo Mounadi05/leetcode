@@ -1,4 +1,3 @@
-
 int check(char *s, int size)
 {
     int i = 0;
@@ -29,7 +28,6 @@ int check(char *s, int size)
 		i++;
 	}
     return (z >= q ? z : q);
-    
 }
 
 int reverse_check(char *s, int len)
@@ -67,4 +65,3 @@ int longestValidParentheses(char * s){
     int b = reverse_check(s, size);
     return(a >= b ? a : b); 
 }
-
