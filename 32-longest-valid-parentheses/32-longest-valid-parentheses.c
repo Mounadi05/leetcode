@@ -1,28 +1,22 @@
- 
-int longestValidParentheses(char * s){
-	int i = 0;
-	int a = 0;
-    int c = 0;
-    int z = 0;
+
+int check(char *s, int size)
+{
+    int i = 0;
     int x = 0;
     int q = 0;
-    int len = strlen(s);
-    char *stack = malloc(len + 1);
-	while (s[i])
+    int c = 0;
+    int z = 0;
+    int a = 0;
+    char *stack = malloc(size + 1);
+    while (s[i])
 	{
-		if (s[i] == '(')
-        {
-			stack[a++] = s[i];
-            x++;
-        }
-        else if(a && s[i] == ')' && stack[a - 1] == '(')
+		if (s[i] == '(' && ++x)
+            stack[a++] = s[i];
+        else if(a && s[i] == ')' && stack[a - 1] == '(' && ++c)
         {
            stack[a--];
-           c++;
             if (c == x)
-            {
                 z =  c * 2;
-            } 
         }
         else
         {
@@ -34,43 +28,43 @@ int longestValidParentheses(char * s){
         }
 		i++;
 	}
-    if (q <= z)
-        q = z;
-    z = 0;
-    i = 0;
-    a = 0;
-    x = 0;
-    c = 0;
-    free(stack);
-    stack = malloc(len + 1);
+    return (z >= q ? z : q);
+    
+}
+
+int reverse_check(char *s, int len)
+{
+    int x = 0;
+    int q = 0;
+    int c = 0;
+    int z = 0;
+    int a = 0;
+    char *stack = malloc(len + 1);
     while(--len >= 0)
 	{
-		if (s[len] == ')')
-        {
+		if (s[len] == ')' && ++x)
 			stack[a++] = s[len];
-            x++;
-        }
-        else if(a  && s[len] == '(' && stack[a - 1] == ')')
+        else if(a  && s[len] == '(' && stack[a - 1] == ')' && ++c)
         {
             stack[a--];
-            c++;
             if (c == x)
-            {
-                i = c * 2;
-            } 
+                q = c * 2;
         }
         else
         {
-             if (z <= i)
-                z = i;
+            if (z <= q)
+                z = q;
             c = 0;
             x = 0;
-            i = 0;
+            q = 0;
         }       
 	}
-    if (z <= i)
-        z = i;
-    if (z >= q)
-        return (z);
-    return (q);
+    return (z >= q ? z : q);
 }
+int longestValidParentheses(char * s){
+    int size =strlen(s);
+    int a = check( s, size);
+    int b = reverse_check(s, size);
+    return(a >= b ? a : b); 
+}
+
