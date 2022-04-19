@@ -16,20 +16,17 @@ bool areAlmostEqual(char * s1, char * s2){
     int len = strlen(s1);
     int c = 0;
     int i = 0;
-    len--;
-    int a = len;
-    int j = 0;
+    int a = --len;
     while(i <= a)
     {
-        j = i;
-        while(j <= len)
+        while(i <= len)
         {
             if (!strcmp(s1,s2))
                 return (true);
-            else if(check(s2[len] ,s1[j]) && s1[j] != s2[j] && s1[len] != s2[len])
+            else if(check(s2[len] ,s1[i]) && s1[i] != s2[i] && s1[len] != s2[len])
             {
                 c++;
-                ft_swap(&s1[len], &s1[j]);
+                ft_swap(&s1[len], &s1[i]);
                 if (c > 1)
                     return (false);
             }
