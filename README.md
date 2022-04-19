@@ -44,7 +44,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
 | 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)      |
-| 283 | [Move Zeroes]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/283-move-zeroes/283-move-zeroes.c|
+| 283 | [Move Zeroes]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/283-move-zeroes/283-move-zeroes.c)|
 | 268 | [Missing Number]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/268_Missing_Number/268.c)      |
 | 258 | [Add Digits]           					     | [C](https://github.com/Mounadi05/leetcode/blob/main/258_Add_Digits/258.c)|
 | 237 | [Delete Node in a Linked List]        			     | [C](https://github.com/Mounadi05/leetcode/blob/main/237_Delete_Node_in_a_Linked_List/237.c)|
@@ -63,7 +63,9 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 75  | [Sort Colors]             			             | [C](https://github.com/Mounadi05/leetcode/blob/main/75_Sort_Colors/75.c)|
 | 70  | [Climbing Stairs]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/70-climbing-stairs.c)|
 | 69  | [Sqrt(x)]                               | [C](https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/69-sqrtx.c))	 		|
-| 58  | [Length of Last Word]                                        | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	 |
+| 58  | [Length of Last Word]                       | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	|
+| 32   | [Longest Valid Parentheses]| [C](https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/32-longest-valid-parentheses.c)|
+
 | 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
 | 26  | [Remove Duplicates from Sorted Array]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
 | 24  | [Swap Nodes in Pairs]             	 | [C](https://github.com/Mounadi05/leetcode/blob/main/24-swap-nodes-in-pairs/24-swap-nodes-in-pairs.c)|
@@ -149,3 +151,4 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Reverse Words in a String]:https://github.com/Mounadi05/leetcode/blob/main/151-reverse-words-in-a-string/README.md
 [Validate Binary Search Tree]:https://github.com/Mounadi05/leetcode/blob/main/98-validate-binary-search-tree/README.md
 [Binary Search Tree Iterator]:https://github.com/Mounadi05/leetcode/blob/main/173-binary-search-tree-iterator/README.md
+[Longest Valid Parentheses]:https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/README.md
