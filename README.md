@@ -62,7 +62,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 88  | [Merge Sorted Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/88_Merge_Sorted_Array/88.c)|
 | 75  | [Sort Colors]             			             | [C](https://github.com/Mounadi05/leetcode/blob/main/75_Sort_Colors/75.c)|
 | 70  | [Climbing Stairs]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/70-climbing-stairs.c)|
-| 69  | [Sqrt(x)]                               | [C](https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/69-sqrtx.c))	 		|
+| 69  | [Sqrt(x)]                               | [C](https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/69-sqrtx.c)	 		|
 | 58  | [Length of Last Word]                       | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	|
 | 32   | [Longest Valid Parentheses]| [C](https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/32-longest-valid-parentheses.c)|
 | 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
