@@ -44,7 +44,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
 | 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)      |
-| 283 | [Move Zeroes]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/283_Move_Zeroes/283.c)|
+| 283 | [Move Zeroes]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/283-move-zeroes/283-move-zeroes.c|
 | 268 | [Missing Number]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/268_Missing_Number/268.c)      |
 | 258 | [Add Digits]           					     | [C](https://github.com/Mounadi05/leetcode/blob/main/258_Add_Digits/258.c)|
 | 237 | [Delete Node in a Linked List]        			     | [C](https://github.com/Mounadi05/leetcode/blob/main/237_Delete_Node_in_a_Linked_List/237.c)|
@@ -109,7 +109,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Remove Linked List Elements]:https://leetcode.com/problems/remove-linked-list-elements/
 [Excel Sheet Column Number]:https://leetcode.com/problems/excel-sheet-column-number/
 [Find Peak Element]:https://leetcode.com/problems/find-peak-element/
-[Move Zeroes]:https://leetcode.com/problems/move-zeroes/
+[Move Zeroes]:https://github.com/Mounadi05/leetcode/blob/main/283-move-zeroes/README.md
 [Add Digits]:https://leetcode.com/problems/add-digits/
 [Delete Node in a Linked List]:https://leetcode.com/problems/delete-node-in-a-linked-list/
 [Detect Capital]:https://leetcode.com/problems/detect-capital/
