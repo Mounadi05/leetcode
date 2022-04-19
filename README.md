@@ -11,7 +11,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 |1929 | [Concatenation of Array]             		 	     | [C](https://github.com/Mounadi05/leetcode/blob/main/1929_Concatenation_of_Array/1929.c)|
 |1920 | [Build Array from Permutation]          		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1920_Build_Array_from_Permutation/1920.c)|
 |1678 | [Goal Parser Interpretation]     			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1678_Goal_Parser_Interpretation/1678.c)|
-|1672 | [Richest Customer Wealth]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1672_Richest_Customer_Wealth/1672.c)|
+|1672 | [Richest Customer Wealth]    | [C](https://github.com/Mounadi05/leetcode/blob/main/1672-richest-customer-wealth/1672-richest-customer-wealth.c)|
 |1556 | [Thousand Separator]                                         | [C](https://github.com/Mounadi05/leetcode/blob/main/1556_Thousand_Separator/1556.c)  |
 |1512 | [Number of Good Pairs]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1512_Number_of_Good_Pairs/1512.c)|
 |1480 | [Running Sum of 1d Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/1480_Running_Sum_of_1d_Array/1480.c)|
@@ -130,7 +130,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Duplicate Zeros]:https://leetcode.com/problems/duplicate-zeros/
 [Subtract the Product and Sum of Digits of an Integer]:https://github.com/Mounadi05/leetcode/blob/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md
 [Find Numbers with Even Number of Digits]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ 
-[Richest Customer Wealth]:https://leetcode.com/problems/richest-customer-wealth/
+[Richest Customer Wealth]:https://github.com/Mounadi05/leetcode/blob/main/1672-richest-customer-wealth/README.md/
 [Running Sum of 1d Array]:https://leetcode.com/problems/running-sum-of-1d-array/ 
 [Number of Good Pairs]:https://leetcode.com/problems/number-of-good-pairs/
 [Check If N and Its Double Exist]:https://leetcode.com/problems/check-if-n-and-its-double-exist/
