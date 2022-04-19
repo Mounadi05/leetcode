@@ -65,18 +65,15 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 69  | [Sqrt(x)]                               | [C](https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/69-sqrtx.c))	 		|
 | 58  | [Length of Last Word]                       | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	|
 | 32   | [Longest Valid Parentheses]| [C](https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/32-longest-valid-parentheses.c)|
-
 | 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
-| 26  | [Remove Duplicates from Sorted Array]             	     | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
+| 26  | [Remove Duplicates from Sorted Array]          | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
 | 24  | [Swap Nodes in Pairs]             	 | [C](https://github.com/Mounadi05/leetcode/blob/main/24-swap-nodes-in-pairs/24-swap-nodes-in-pairs.c)|
 | 21  | [Merge Two Sorted Lists]                                     | [C](https://github.com/Mounadi05/leetcode/blob/main/21_Merge_Two_Sorted_Lists/21.c)	 |
 | 9   | [Palindrome Number]                                          | [C](https://github.com/Mounadi05/leetcode/blob/main/9_Palindrome_Number/9.c)      	 |
 | 8   | [String to Integer (atoi)]                                   | [C](https://github.com/Mounadi05/leetcode/blob/main/8_String_to_Integer(atoi))  	 |
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
-| 3   | [Longest Substring Without Repeating Characters]             | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
+| 3   | [Longest Substring Without Repeating Characters]      | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
-
-
 
 
 
