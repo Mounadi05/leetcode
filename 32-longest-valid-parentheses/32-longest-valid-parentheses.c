@@ -1,3 +1,4 @@
+
 int check(char *s, int size)
 {
     int i = 0,x = 0, q = 0,c = 0, z = 0,a = 0;
@@ -20,7 +21,7 @@ int check(char *s, int size)
             x = 0;
             z = 0;
         }
-		i++;
+        i++;
 	}
     return (z >= q ? z : q);
 }
