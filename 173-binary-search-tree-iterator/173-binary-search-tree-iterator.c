@@ -46,13 +46,3 @@ void bSTIteratorFree(BSTIterator* obj) {
     free(obj->node);
     free(obj);
 }
-
-/**
- * Your BSTIterator struct will be instantiated and called as such:
- * BSTIterator* obj = bSTIteratorCreate(root);
- * int param_1 = bSTIteratorNext(obj);
- 
- * bool param_2 = bSTIteratorHasNext(obj);
- 
- * bSTIteratorFree(obj);
-*/
