@@ -5,13 +5,9 @@
  */
 int check_zero(int n)
 {
-    int len = 1;
-    int a = n;
-    while (n > 9 && len++)
-        n /=10;
-    char *tab= malloc(len + 1);
-    sprintf(tab, "%d",a);
-    a = 0;
+    int a = 0;
+    char *tab= malloc(5);
+    sprintf(tab, "%d",n);
     while(tab[a])
         if(tab[a++] == '0')
             return (0);
