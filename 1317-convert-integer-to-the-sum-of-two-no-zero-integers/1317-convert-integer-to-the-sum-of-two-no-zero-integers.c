@@ -3,7 +3,6 @@
  */
 int check_zero(int n)
 {
-    int a = 0;
     char *tab= malloc(5);
     sprintf(tab, "%d",n);
     while(*tab)
