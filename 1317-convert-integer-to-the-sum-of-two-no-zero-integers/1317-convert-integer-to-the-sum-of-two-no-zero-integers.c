@@ -1,5 +1,4 @@
-
- 
+  
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
@@ -8,8 +7,8 @@ int check_zero(int n)
     int a = 0;
     char *tab= malloc(5);
     sprintf(tab, "%d",n);
-    while(tab[a])
-        if(tab[a++] == '0')
+    while(*tab)
+        if(*(tab++) == '0')
             return (0);
     return (1);
 }
