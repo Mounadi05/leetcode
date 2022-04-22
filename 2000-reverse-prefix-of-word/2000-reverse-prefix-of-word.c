@@ -1,5 +1,4 @@
 
-
 char * reversePrefix(char * word, char ch){
     int i = 0;
     char *str = malloc(strlen(word) + 1);
