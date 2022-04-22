@@ -11,9 +11,7 @@ char * reversePrefix(char * word, char ch){
             j = i;
             i = 0;
             while (j >= 0)
-            {
                 str[i++] = word[j--];
-            }
             while(word[i])
             {
                 str[i] = word[i];
@@ -24,6 +22,5 @@ char * reversePrefix(char * word, char ch){
         }
         i++;
     }
-    return (word);
-    
+    return (word); 
 }
