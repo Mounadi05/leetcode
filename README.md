@@ -41,7 +41,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 412 | [Fizz Buzz]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/412-fizz-buzz/412-fizz-buzz.c)|
 | 389 | [Find the Difference ]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/389_Find_the_Difference/389.c)  |
 | 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367-valid-perfect-square/367-valid-perfect-square.c)        |
-| 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344_Reverse_String/344.c)        |
+| 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344-reverse-string/344-reverse-string.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
 | 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)      |
 | 283 | [Move Zeroes]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/283-move-zeroes/283-move-zeroes.c)|
@@ -95,7 +95,7 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Single Number]:https://leetcode.com/problems/single-number/
 [Reverse Linked List]:https://leetcode.com/problems/reverse-linked-list/
 [Missing Number]:https://leetcode.com/problems/missing-number/
-[Reverse String]:https://leetcode.com/problems/reverse-string/
+[Reverse String]:https://github.com/Mounadi05/leetcode/blob/main/344-reverse-string/README.md
 [Thousand Separator]:https://leetcode.com/problems/thousand-separator/
 [Sum of Square Numbers]:https://leetcode.com/problems/sum-of-square-numbers/
 [Find the Difference]:https://leetcode.com/problems/find-the-difference/
