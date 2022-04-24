@@ -3,7 +3,7 @@
 int strStr(char * haystack, char * needle){
     int i = 0;
     int j = 0;
-    if (!needle || !strcmp(haystack,needle))
+    if (!needle )
         return (0);
     while(haystack[i])
     {
