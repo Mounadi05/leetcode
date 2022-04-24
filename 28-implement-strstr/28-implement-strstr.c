@@ -1,9 +1,7 @@
 
-
 int strStr(char * haystack, char * needle){
-    int i = 0;
-    int j = 0;
-    if (!needle )
+    int i,j = 0;
+    if (!needle)
         return (0);
     while(haystack[i])
     {
