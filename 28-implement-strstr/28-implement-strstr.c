@@ -1,5 +1,5 @@
-
- int strStr(char * haystack, char * needle){
+ 
+int strStr(char * haystack, char * needle){
     int i,j = i = -1;
     while(haystack[++i] && (j = -1))
     {
