@@ -1,5 +1,4 @@
-
-
+ 
 int strStr(char * haystack, char * needle){
     int i,j = i = -1;
     if (!needle)
