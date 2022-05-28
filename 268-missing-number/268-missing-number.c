@@ -1,4 +1,5 @@
 
+
 int missingNumber(int* num, int size){
     int a = 0;
     int i = 0;
