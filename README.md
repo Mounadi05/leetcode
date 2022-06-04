@@ -40,6 +40,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 448 | [Find All Numbers Disappeared in an Array]      	     | [C](https://github.com/Mounadi05/leetcode/blob/main/448_Find_All_Numbers_Disappeared_in_an_Array/448.c)|
 | 412 | [Fizz Buzz]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/412-fizz-buzz/412-fizz-buzz.c)|
 | 389 | [Find the Difference ]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/389_Find_the_Difference/389.c)  |
+| 383  | [Ransom Note]             | [C](https://github.com/Mounadi05/leetcode/blob/746f4b8982945ca2aabd9027256b976cc7a553b0/383-ransom-note/383-ransom-note.c)|
+| 371 | [Sum of Two Integers]             | [C](https://github.com/Mounadi05/leetcode/blob/746f4b8982945ca2aabd9027256b976cc7a553b0/371-sum-of-two-integers/371-sum-of-two-integers.c)|
 | 367 | [Valid Perfect Square]                                       | [C](https://github.com/Mounadi05/leetcode/blob/main/367-valid-perfect-square/367-valid-perfect-square.c)        |
 | 344 | [Reverse String]                                             | [C](https://github.com/Mounadi05/leetcode/blob/main/344-reverse-string/344-reverse-string.c)        |
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
@@ -74,6 +76,8 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]      | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+
+
 
 
 
@@ -149,3 +153,5 @@ This project aims at solving [LeetCode algorithm problems] with pure C Language
 [Validate Binary Search Tree]:https://github.com/Mounadi05/leetcode/blob/main/98-validate-binary-search-tree/README.md
 [Binary Search Tree Iterator]:https://github.com/Mounadi05/leetcode/blob/main/173-binary-search-tree-iterator/README.md
 [Longest Valid Parentheses]:https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/README.md
+[Sum of Two Integers]:https://github.com/Mounadi05/leetcode/blob/746f4b8982945ca2aabd9027256b976cc7a553b0/371-sum-of-two-integers/README.md
+[Ransom Note]:https://github.com/Mounadi05/leetcode/blob/746f4b8982945ca2aabd9027256b976cc7a553b0/383-ransom-note/README.md
