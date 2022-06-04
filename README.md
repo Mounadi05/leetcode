@@ -1,7 +1,7 @@
-Pure C solution for LeetCode
+Pure solution for LeetCode
 ============================
 
-This project aims at solving [LeetCode algorithm problems] with pure C Language 
+This project aims at solving [LeetCode algorithm problems] with multi Languages 
 
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
