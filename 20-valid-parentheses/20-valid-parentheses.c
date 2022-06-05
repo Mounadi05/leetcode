@@ -12,7 +12,5 @@ bool isValid(char * s){
             return (false);
 		i++;
 	}
-	if (a != 0)
-        return (false);
-    return (true);
+    return (!a);
 }
