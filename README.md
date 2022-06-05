@@ -47,7 +47,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 | 342 | [Power of Four]                                              | [C](https://github.com/Mounadi05/leetcode/blob/main/342_Power_of_Four/324.c)|
 | 326 | [Power of three]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/326_Power_of_Three/326.c)      |
 | 283 | [Move Zeroes]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/283-move-zeroes/283-move-zeroes.c)|
-| 268 | [Missing Number]                                             | [C](https://github.com/Mounadi05/leetcode/tree/main/268_Missing_Number/268.c)      |
+| 268 | [Missing Number]                       | [C](https://github.com/Mounadi05/leetcode/blob/main/268-missing-number/268-missing-number.c)|
 | 258 | [Add Digits]           					     | [C](https://github.com/Mounadi05/leetcode/blob/main/258_Add_Digits/258.c)|
 | 237 | [Delete Node in a Linked List]        			     | [C](https://github.com/Mounadi05/leetcode/blob/main/237_Delete_Node_in_a_Linked_List/237.c)|
 | 231 | [Power of Two]                                               | [C](https://github.com/Mounadi05/leetcode/blob/main/231_Power_of_Two/231.c) 	       |
@@ -98,7 +98,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 [Merge Two Sorted Lists]:https://leetcode.com/problems/merge-two-sorted-lists/
 [Single Number]:https://leetcode.com/problems/single-number/
 [Reverse Linked List]:https://leetcode.com/problems/reverse-linked-list/
-[Missing Number]:https://leetcode.com/problems/missing-number/
+[Missing Number]:https://github.com/Mounadi05/leetcode/blob/main/268-missing-number/README.md
 [Reverse String]:https://github.com/Mounadi05/leetcode/blob/main/344-reverse-string/README.md
 [Thousand Separator]:https://leetcode.com/problems/thousand-separator/
 [Sum of Square Numbers]:https://leetcode.com/problems/sum-of-square-numbers/
