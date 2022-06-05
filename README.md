@@ -6,7 +6,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 |     | Problem                                                      | Solution          |
 | --- | ------------------------------------------------------------ | ----------------- |
 |2180 | [Count Integers With Even Digit Sum]   | [C](https://github.com/Mounadi05/leetcode/blob/main/2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.c)|
-|2114 | [Maximum Number of Words Found in Sentences]   		     | [C](https://github.com/Mounadi05/leetcode/blob/main/2114_Maximum_Number_of_Words_Found_in_Sentences/2114.c)|
+|2114 | [Maximum Number of Words Found in Sentences]   		     |[C](https://github.com/Mounadi05/leetcode/blob/main/2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.c)|
 |2011 | [Final Value of Variable After Performing Operations]        | [C](https://github.com/Mounadi05/leetcode/blob/main/2011_Final_Value_of_Variable_After_Performing_Operations/2011.c)|
 |1929 | [Concatenation of Array]     | [C](https://github.com/Mounadi05/leetcode/blob/main/1929-concatenation-of-array/1929-concatenation-of-array.c)|
 |1920 | [Build Array from Permutation]          		     | [C](https://github.com/Mounadi05/leetcode/blob/main/1920_Build_Array_from_Permutation/1920.c)|
@@ -141,7 +141,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 [Goal Parser Interpretation]:https://leetcode.com/problems/goal-parser-interpretation/
 [Build Array from Permutation]:https://leetcode.com/problems/build-array-from-permutation/ 
 [Capitalize the Title]:https://leetcode.com/problems/capitalize-the-title/
-[Maximum Number of Words Found in Sentences]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+[Maximum Number of Words Found in Sentences]:https://github.com/Mounadi05/leetcode/blob/main/2114-maximum-number-of-words-found-in-sentences/README.md
 [Final Value of Variable After Performing Operations]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [Concatenation of Array]:https://github.com/Mounadi05/leetcode/blob/main/1929-concatenation-of-array/README.md
 [Search in a Binary Search Tree]:https://github.com/Mounadi05/leetcode/tree/main/700-search-in-a-binary-search-tree
