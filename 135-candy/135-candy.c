@@ -1,5 +1,4 @@
- 
-int candy(int* ra, int size){
+ int candy(int* ra, int size){
     int a = 0;
     int s = size -1;
     int *r = malloc(4 * size);
@@ -14,5 +13,3 @@ int candy(int* ra, int size){
        a += r[i] > l[i] ? r[i] :l[i];
     return a;
 }
-
-
