@@ -1,4 +1,4 @@
-  
+ 
 bool canJump(int* nums, int size){
     int step = 0;
     int i = 0;
