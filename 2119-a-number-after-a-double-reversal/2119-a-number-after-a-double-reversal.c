@@ -1,5 +1,2 @@
- 
-
 bool isSameAfterReversals(int num){
-    return (!num || num%10);
-}
+    return (!num || num%10);}
