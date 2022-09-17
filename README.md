@@ -59,6 +59,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 | 162 | [Find Peak Element]          				     | [C](https://github.com/Mounadi05/leetcode/blob/main/162_Find_Peak_Element/162.c)|
 | 151   | [Reverse Words in a String]        | [C](https://github.com/Mounadi05/leetcode/blob/main/151-reverse-words-in-a-string/151-reverse-words-in-a-string.c)|
 | 136 | [Single Number]                          | [C](https://github.com/Mounadi05/leetcode/blob/main/136_Single_Number/136.c)   |
+| 135   | [Candy]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/135-candy/135-candy.c)|
 | 121 | [Best Time to Buy and Sell Stock]      | [C](https://github.com/Mounadi05/leetcode/blob/main/121_Best_Time_to_Buy_and_Sell_Stock/121.c)|
 | 98  | [Validate Binary Search Tree]   | [C](https://github.com/Mounadi05/leetcode/blob/main/98-validate-binary-search-tree/98-validate-binary-search-tree.c)|
 | 88  | [Merge Sorted Array]             			     | [C](https://github.com/Mounadi05/leetcode/blob/main/88_Merge_Sorted_Array/88.c)|
@@ -66,6 +67,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 | 70  | [Climbing Stairs]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/70-climbing-stairs/70-climbing-stairs.c)|
 | 69  | [Sqrt(x)]                               | [C](https://github.com/Mounadi05/leetcode/blob/main/69-sqrtx/69-sqrtx.c)	 		|
 | 58  | [Length of Last Word]                       | [C](https://github.com/Mounadi05/leetcode/blob/main/58_Length_of_Last_Word/58.c)	|
+| 41   | [first missing positive]       | [C](https://github.com/Mounadi05/leetcode/blob/main/41-first-missing-positive/41-first-missing-positive.c)|
 | 32   | [Longest Valid Parentheses]| [C](https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/32-longest-valid-parentheses.c)|
 | 27  | [Remove Element]             				     | [C](https://github.com/Mounadi05/leetcode/blob/main/27_Remove_Element/27.c)|
 | 26  | [Remove Duplicates from Sorted Array]          | [C](https://github.com/Mounadi05/leetcode/blob/main/26_Remove_Duplicates_from_Sorted_Array/26.c)|
@@ -76,6 +78,7 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 | 7   | [Reverse Integer]                                            | [C](https://github.com/Mounadi05/leetcode/blob/main/7_Reverse_Integer/7.c)        |
 | 3   | [Longest Substring Without Repeating Characters]      | [C](https://github.com/Mounadi05/leetcode/blob/main/3_Longest_Substring_Without_Repeating_Characters/3.c)|
 | 1   | [Two Sum]             					     | [C](https://github.com/Mounadi05/leetcode/blob/main/1_Two_Sum/1.c)|
+
 
 
 
@@ -155,3 +158,5 @@ This project aims at solving [LeetCode algorithm problems] with multi Languages
 [Longest Valid Parentheses]:https://github.com/Mounadi05/leetcode/blob/main/32-longest-valid-parentheses/README.md
 [Sum of Two Integers]:https://github.com/Mounadi05/leetcode/blob/746f4b8982945ca2aabd9027256b976cc7a553b0/371-sum-of-two-integers/README.md
 [Ransom Note]:https://github.com/Mounadi05/leetcode/blob/746f4b8982945ca2aabd9027256b976cc7a553b0/383-ransom-note/README.md
+[Candy]:https://github.com/Mounadi05/leetcode/blob/main/135-candy/README.md
+[First Missing Positive]:https://github.com/Mounadi05/leetcode/blob/main/41-first-missing-positive/README.md
