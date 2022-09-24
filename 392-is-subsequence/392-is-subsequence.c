@@ -1,4 +1,4 @@
- 
+  
 bool isSubsequence(char * s, char * t){
     int a = 0;
     int i = 0;
