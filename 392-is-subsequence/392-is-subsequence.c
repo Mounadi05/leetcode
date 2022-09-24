@@ -5,6 +5,5 @@ bool isSubsequence(char * s, char * t){
     for(int j = 0 ; t[j] ; j++)
         if (s[i] == t[j] && s[i])
             i++;
-    if (!s[i])return true;
-    return false;
+    return !s[i];
 }
