@@ -3,6 +3,7 @@
     int a = 0;
     int b = 0;
     int len = strlen(s);
+     int e = len;
     while(++i < --len)
     {
         if (s[i] != s[len] && a == 1 && (b = 1))
@@ -11,7 +12,7 @@
             i--;
     }
     i = -1;
-    len = strlen(s);
+    len = e;
     a = 0;
     while(++i < --len)
     {
