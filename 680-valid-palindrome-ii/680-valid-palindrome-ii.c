@@ -12,14 +12,13 @@
             i--;
     }
     i = -1;
-    len = e;
     a = 0;
-    while(++i < --len)
+    while(++i < --e)
     {
-        if (s[i] != s[len] && a == 1 && b == 1)
+        if (s[i] != s[e] && a == 1 && b == 1)
             return false;
-        if (s[i] != s[len] && ++a)
-            len++;
+        if (s[i] != s[e] && ++a)
+            e++;
     }
     return (true);
 }
