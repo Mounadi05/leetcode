@@ -1,4 +1,4 @@
-  bool validPalindrome(char * s){
+   bool validPalindrome(char * s){
     int i = -1;
     int a = 0;
     int b = 0;
@@ -12,7 +12,6 @@
             i--;
     }
     i = -1;
-    //a = 0;
     while(b != 0 &&  ++i < --e)
     {
         if (s[i] != s[e] && a > 1)
