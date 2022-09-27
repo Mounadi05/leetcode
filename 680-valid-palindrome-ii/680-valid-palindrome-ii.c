@@ -1,4 +1,4 @@
- bool validPalindrome(char * s){
+  bool validPalindrome(char * s){
     int i = -1;
     int a = 0;
     int b = 0;
