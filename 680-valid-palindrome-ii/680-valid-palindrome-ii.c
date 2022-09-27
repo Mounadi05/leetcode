@@ -12,10 +12,10 @@
             i--;
     }
     i = -1;
-    a = 0;
-    while(++i < --e)
+    //a = 0;
+    while(b != 0 &&  ++i < --e)
     {
-        if (s[i] != s[e] && a == 1 && b == 1)
+        if (s[i] != s[e] && a > 1)
             return false;
         if (s[i] != s[e] && ++a)
             e++;
