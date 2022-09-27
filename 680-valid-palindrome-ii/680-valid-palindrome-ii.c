@@ -10,9 +10,9 @@
         if (s[i] != s[len] && ++a)
             i--;
     }
-     i = -1;
-     len = strlen(s);
-     a = 0;
+    i = -1;
+    len = strlen(s);
+    a = 0;
     while(++i < --len)
     {
         if (s[i] != s[len] && a == 1 && b == 1)
