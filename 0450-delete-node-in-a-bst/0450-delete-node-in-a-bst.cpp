@@ -39,19 +39,19 @@ public:
             }
             else
             {
-                TreeNode *tmp = FindMin(root->right);
+                TreeNode *tmp = FindMax(root->left);
                 root->val = tmp->val;
-                root->right =  deleteNode(root->right, tmp->val);
+                root->left =  deleteNode(root->left, tmp->val);
             }
         }
         return root;
     }
 private :
-    TreeNode * FindMin(TreeNode *node)
+    TreeNode * FindMax(TreeNode *node)
     {
         TreeNode *root = node;
-        while(root->left)
-            root = root->left;
+        while(root->right)
+            root = root->right;
         return root;
     } 
 };
