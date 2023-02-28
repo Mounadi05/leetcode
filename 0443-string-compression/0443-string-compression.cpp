@@ -19,7 +19,8 @@ public:
         char tmp;
         int counter = 0;
         for(int i = 0; i < chars.size() ; i++)
-        {   if (i != 0 && chars[i] != tmp && counter > 1)
+        {   
+            if (i != 0 && chars[i] != tmp && counter > 1)
                 separy(counter, res);
             if (i == 0 || chars[i] != tmp)
             {    
