@@ -6,6 +6,5 @@ public:
             for(int a = 0; a < nums[i] ; a++)
                 res.push_back(nums[i+1]);
         return res;
-            
     }
 };
