@@ -2,8 +2,8 @@ class Solution {
 public:
     string shiftingLetters(string s, vector<int>& shifts) 
     {
-         int n = s.size();
-        long shiftSum = 0;
+        int n = s.size();
+        int shiftSum = 0;
         for (int i = n - 1; i >= 0; i--) 
         {
             shiftSum = (shiftSum + shifts[i]) % 26;
