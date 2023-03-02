@@ -4,12 +4,7 @@ public:
     {
         for(int i = 0; i < month.size() ; i++)
             if (month[i] == m)
-            {
-                if (i >= 9)
-                    return to_string(i+1);
-                else
-                    return "0"+to_string(i+1);
-            }
+                return (i>= 9) ? to_string(i+1) : ("0"+to_string(i+1));
         return "";
     }
     string reformatDate(string date) {
