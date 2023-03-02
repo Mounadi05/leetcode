@@ -17,10 +17,7 @@ public:
         format += "-" + ft_month(month, date.substr(len+1,3));
         date[len] = ';';
         string day = date.substr(0,len);
-        if (day.size() > 3)
-            format += "-" + day.substr(0,2);
-        else
-            format += "-0" + day.substr(0,1);
+        format += (day.size() > 3) ? ("-" + day.substr(0,2)) :("-0" + day.substr(0,1));
         return format;   
     }
     
