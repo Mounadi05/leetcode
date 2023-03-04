@@ -7,10 +7,9 @@ public:
         while (n >= factor) 
         {
             int current = (n / factor) % 10;
-            int lower = n - (n / factor) * factor; 
             int higher = n / (factor * 10);
-            if (current == 0) count += higher * factor;
-            else if (current == 1) count += higher * factor + lower + 1;
+            if (!current) count += higher * factor;
+            else if (current == 1) count += higher * factor + (n - (n / factor) * factor) + 1;
             else count += (higher + 1) * factor;
             factor *= 10;
         }
