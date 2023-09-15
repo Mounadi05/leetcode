@@ -12,8 +12,8 @@ public:
             word.push_back(tocken);
 
         for(auto i = word.rbegin() ; i != word.rend() ; i++)
-            result += *i + " ";
+            result += *i + (i+1!=word.rend()? " " : "");
         
-        return result.substr(0, result.length()-1);
+        return result;
     }
 };
