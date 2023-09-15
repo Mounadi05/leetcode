@@ -5,12 +5,6 @@
  */
 var kidsWithCandies = function(candies, extraCandies) {
     const greatest =  Math.max(...candies);
-    var kids = [];
-    candies.forEach(candie =>{
-        if(candie + extraCandies >=  greatest)
-            kids.push(true);
-        else
-            kids.push(false);      
-    })
+    var kids = candies.map(candie => candie + extraCandies >=  greatest)
     return kids;
 };
