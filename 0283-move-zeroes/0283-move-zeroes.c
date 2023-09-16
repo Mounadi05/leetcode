@@ -7,7 +7,6 @@ void moveZeroes(int* arr, int size){
         if (arr[i])
         {
             arr[j++] = arr[i];
-            if (i >= j)
-                arr[i] = 0;
+            if (i >= j) arr[i] = 0;
         }
 }
