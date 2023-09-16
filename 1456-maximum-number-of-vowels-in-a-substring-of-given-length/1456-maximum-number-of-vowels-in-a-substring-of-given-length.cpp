@@ -1,15 +1,15 @@
 class Solution {
 public:
     int maxVowels(string s, int k) {
-        string vowel("aeiou");
-        int window = 0;
+        unordered_set<char> vowel{'a','e','i','o','u'};
+         int window = 0;
         for(int i = 0; i < k ;i++)
-            if (vowel.find(s[i]) != -1)
+            if (vowel.count(s[i]))
                 window++;
         int tempWindow = window;
         for(int i = k;i < s.size(); i++)
         {
-            tempWindow += ((vowel.find(s[i]) == -1) ? 0 : 1) - ((vowel.find(s[i - k]) == -1) ? 0 : 1);
+            tempWindow += (vowel.count(s[i]) - vowel.count(s[i - k])) ;
             window = max(window,tempWindow);
         }
         return window;
