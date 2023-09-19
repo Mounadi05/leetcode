@@ -1,25 +1,22 @@
 /**
  * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
  */
-class Solution {
-public:
-    ListNode* deleteMiddle(ListNode* head) {
-        ListNode *tmp = head;
-        int lent = 0;
-        for(;tmp;lent++) tmp = tmp->next;
-        if (lent == 1) return NULL;
-        ListNode *del = head;
-        for(int i = 1; i < lent/2 && del;i++)
-                del = del->next;
-        ListNode *next = (del)->next->next;
-        del->next  = next;
-        return head;
-    }
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
+var deleteMiddle = function(head) {
+    var tmp = head;
+    var lent = -1;
+    for(;tmp;lent++) tmp = tmp.next;
+    if (lent == 0) return null;
+    tmp = head;
+    for(let i = 1; i < Math.ceil(lent/2) ;i++) tmp = tmp.next;
+    var delNode = tmp.next.next
+    tmp.next = delNode;
+    return head;
 };
