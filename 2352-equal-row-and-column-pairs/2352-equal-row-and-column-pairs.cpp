@@ -1,16 +1,14 @@
-class Solution {
+ class Solution {
 public:
  int equalPairs(vector<vector<int>>& grid) {
-    vector<vector<int>> reverseGrid(grid.size(), vector(grid.size(), 0));
-    
-     for(int i = 0; i < grid.size(); i++)
-        for(int j = 0; j < grid.size(); j++)
-            reverseGrid[i][j] = grid[j][i];
     int count(0);
-     for(int i = 0; i < grid.size();i++)
-        for(int j = 0; j < grid.size(); j++)
-             if (grid[i] == reverseGrid[j])
-                 count++;
+     for (int i = 0; i < grid.size(); i++)
+        for (int j = 0; j < grid.size(); j++) {
+            int c(0);
+            for (int k = 0; k < grid.size(); k++)
+                c += grid[i][k] == grid[k][j];
+            count += (c == grid.size());
+        }
      return count;
     }
 
