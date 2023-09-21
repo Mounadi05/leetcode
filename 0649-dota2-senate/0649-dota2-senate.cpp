@@ -3,14 +3,11 @@ public:
   string predictPartyVictory(string senate) {
         vector<string> vote;
         int R = 0, D = 0;
-      string first = (senate[0] == 'R') ? "Radiant" : "Dire";
 
         for(char c : senate)
         { 
-            if (c == 'R')
-                R++;
-            else 
-               D++;
+            if (c == 'R')R++;
+            else D++;
         }
         int p_r = 0;
         int p_d = 0;
@@ -41,6 +38,6 @@ public:
             }
          
          }
-         return (R == D) ? first :(R < D) ? "Dire" : "Radiant";
+         return (R < D) ? "Dire" : "Radiant";
     }
  };
