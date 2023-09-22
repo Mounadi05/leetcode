@@ -11,9 +11,9 @@ public:
             else
             {
                 while(!result.empty() && asteroids[i] < 0  && result.back() > 0 && result.back() < abs(asteroids[i]))
-                    result.erase(result.end() -1);
+                    result.pop_back();
                 if (!result.empty() && result.back() > 0 && result.back() == abs(asteroids[i]))
-                    result.erase(result.end() -1);
+                    result.pop_back();
                 else if (result.empty() || result.back() < 0)
                     result.push_back(asteroids[i]);
             }
