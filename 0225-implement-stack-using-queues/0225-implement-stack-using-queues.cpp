@@ -2,29 +2,24 @@ class MyStack {
 public:
     queue<int> s;
     queue<int> temp;
-    int size;
     MyStack() {
-        size = 0;
-     }
+     
+    }
     
     void push(int x) {
         s.push(x);
-        size++;
     }
     
     int pop() {
         int n;
-        for(int i = 0; i < size-1 &&!s.empty() ;i++)
+        while(s.size() > 0)
         {
             n = s.front();
-            temp.push(n);
             s.pop();
+            if(!s.empty())temp.push(n);
         }
-        n = s.back();
-        s.pop();
         s = temp;
         while(!temp.empty()) temp.pop();
-        size--;
         return n;
     }
     
@@ -33,7 +28,7 @@ public:
     }
     
     bool empty() {
-        return (size == 0);
+        return s.empty();
     }
 };
 
