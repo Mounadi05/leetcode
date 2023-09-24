@@ -1,4 +1,4 @@
- bool check(char * s, char * p,int i,int j,int **memo)
+ bool check(char * s, char * p,int i,int j,int ** memo)
 {
     if (memo[i][j]) return false;
     memo[i][j] = 1;
@@ -13,12 +13,12 @@ bool isMatch(char * s, char * p)
 {
     int m = strlen(s);
     int n = strlen(p);
-
-    int **memo = (int **)malloc((m + 1) * sizeof(int *));
-    for (int i = 0; i <= m; i++) {
-        memo[i] = (int *)calloc(n + 1, sizeof(int));
+    
+    int ** memo = (int **)malloc((m + 1) * sizeof(int *));
+    for(int i = 0; i <= m; i++) {
+        memo[i] = (int *)malloc((n + 1) * sizeof(int));
+        memset(memo[i], 0, (n + 1) * sizeof(int));
     }
-
     return check(s, p, 0, 0, memo);
 
 } 
