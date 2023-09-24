@@ -19,13 +19,7 @@ bool isMatch(char * s, char * p)
         memo[i] = (int *)calloc(n + 1, sizeof(int));
     }
 
-    bool result = check(s, p, 0, 0, memo);
+    return check(s, p, 0, 0, memo);
 
-    for (int i = 0; i <= m; i++) {
-        free(memo[i]);
-    }
-    free(memo);
-
-    return result;
 } 
   
