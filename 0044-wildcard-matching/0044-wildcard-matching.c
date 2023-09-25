@@ -6,7 +6,7 @@
     if (p[j] &&  p[j] == '*' && !p[j + 1] && !s[i]) return true;
     if(s[i] && p[j] && (s[i]  == p[j] || (p[j] && p[j] == '?'))) return !memo[i+1][j+1] && check(s,p,i+1,j+1,memo);
     if(p[j] == '*') 
-         return (s[i] && !memo[i+1][j] && check(s,p,i+1,j,memo) )||( !memo[i][j+1] && check(s,p,i,j+1,memo));
+         return ( !memo[i][j+1] && check(s,p,i,j+1,memo))||(s[i] && !memo[i+1][j] && check(s,p,i+1,j,memo) );
     return  false;
 }
 bool isMatch(char * s, char * p)
