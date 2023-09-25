@@ -1,6 +1,8 @@
 class Solution {
 public:
  int equalPairs(vector<vector<int>>& grid) {
+ ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
     vector<vector<int>> reverseGrid(grid.size(), vector(grid.size(), 0));
     
      for(int i = 0; i < grid.size(); i++)
