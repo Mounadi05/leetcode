@@ -4,7 +4,7 @@ public:
     if (  right == -1) right = nums.size() -1;
     if (left > right || nums[left] > target || nums[right] < target) 
         return -1;
-     int mid = left + (right - left) / 2;
+     int mid = (right + left) / 2;
     if (nums[mid] == target) return mid;
     if (nums[mid] < target) 
         return search(nums,target,mid + 1,right);
