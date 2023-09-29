@@ -6,7 +6,7 @@ public:
         if (ruleKey == "color") index = 1;
         if (ruleKey == "name") index = 2;
         int counter = 0;
-        for(vector item : items)
+        for(vector<string> &item : items)
             if (item[index] == ruleValue)
                 counter++;
         return counter;
