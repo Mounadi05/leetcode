@@ -11,21 +11,20 @@
  */
 class Solution {
 public:
-    int result = 0;
-    void find(TreeNode* root,int targetSum,long long sum)
+    
+    int find(TreeNode* root,int targetSum,long long sum)
     {
-        if (!root) return;
+        if (!root) return 0;
         sum += root->val;
-        if (sum == targetSum) result++;
-        find(root->left,targetSum,sum); 
-        find(root->right,targetSum, sum);
+        int result =  (sum == targetSum);
+        result += find(root->left,targetSum,sum); 
+        result += find(root->right,targetSum, sum);
+        return result;
     }
     
     int pathSum(TreeNode* root, int targetSum) {
         if(!root) return 0;
-        find(root,targetSum,0);
-        pathSum(root->left,targetSum);
-        pathSum(root->right,targetSum);
-        return result;
+        int result = find(root,targetSum,0);
+        return result +  pathSum(root->right,targetSum) +pathSum(root->left,targetSum);
     }
 };
