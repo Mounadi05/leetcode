@@ -30,19 +30,30 @@ public:
         }
         return count;
     }
-    int longestZigZag(TreeNode* root) {
-        stack<TreeNode*> tree;
-        tree.push(root);
-        int Longest = -1;
-        while(!tree.empty())
-        {
-            TreeNode* current = tree.top();
-            tree.pop();
-            Longest = max(Longest, ZigZag(current , true));
-            Longest = max(Longest, ZigZag(current , false));
-            if(current->left) tree.push(current->left);
-            if(current->right) tree.push(current->right);
-        }
+    // int longestZigZag(TreeNode* root) {
+    //     stack<TreeNode*> tree;
+    //     tree.push(root);
+    //     int Longest = -1;
+    //     while(!tree.empty())
+    //     {
+    //         TreeNode* current = tree.top();
+    //         tree.pop();
+    //         Longest = max(Longest, ZigZag(current , true));
+    //         Longest = max(Longest, ZigZag(current , false));
+    //         if(current->left) tree.push(current->left);
+    //         if(current->right) tree.push(current->right);
+    //     }
+    //     return Longest;
+    // }
+      int Longest = 0;
+      int longestZigZag(TreeNode* root) {
+            if (!root) return 0;   
+            Longest = max(Longest, ZigZag(root , true));
+            Longest = max(Longest, ZigZag(root , false));
+            longestZigZag(root->left);
+            longestZigZag(root->right);
         return Longest;
     }
+    
+    
 };
