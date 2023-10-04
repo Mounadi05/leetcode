@@ -1,9 +1,7 @@
 class Solution {
 public:
 
-    map<int, bool> visted;
-    
-    bool hasPath(map<int,vector<int>> &graph,int node , int destination)
+    bool hasPath(map<int,vector<int>> &graph,int node , int destination,map<int, bool> &visted)
     {
         for(int &source : graph[node])
         {
@@ -11,7 +9,7 @@ public:
             if(!visted[source]) 
             {
                 visted[source] = 1;
-                if(hasPath(graph, source,destination))
+                if(hasPath(graph, source,destination,visted))
                     return true;
             }
         }
@@ -20,13 +18,13 @@ public:
 
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
         map<int,vector<int>> graph;
+        map<int, bool> visted;
         for(vector<int> edge : edges)
         {
             graph[edge[0]].push_back(edge[1]);
             graph[edge[1]].push_back(edge[0]);
         }
-        return source == destination || hasPath(graph,source,destination);
+        return source == destination || hasPath(graph,source,destination,visted);
      }
-
 };
  
