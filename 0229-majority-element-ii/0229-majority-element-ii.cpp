@@ -7,16 +7,12 @@ public:
         pair<int , int>b = {0,0};
         for(int num : nums)
         {
-           //cout <<"before : "<< a.first << " " << a.second << " | " << b.first << " " << b.second <<endl;
-
             if(num == a.first) a.second++;
             else if(num == b.first) b.second++;
             else if (!a.second ) a = {num,1}; 
             else if (!b.second) b = {num,1};
             else
                  b.second--,a.second--;
-          cout << "after : "<< a.first << " " << a.second << " | " << b.first << " " << b.second <<endl;
-
         }
             
         a.second = b.second = 0;
