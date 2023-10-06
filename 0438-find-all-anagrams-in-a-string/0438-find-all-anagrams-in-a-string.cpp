@@ -13,11 +13,8 @@ public:
             tmp[s[i] - 'a']++;
             if (i >= n - 1) 
             {
-                if (tmp == hash)
-                    result.push_back(i - n + 1);
-
-                tmp[s[index] - 'a']--;
-                index++;
+                if (tmp == hash) result.push_back(i - n + 1);
+                tmp[s[index++] - 'a']--;
             }
         }
         return result;
